@@ -4,7 +4,7 @@
 
 This site served as an experimental sandbox while I was learning web development. \
 It contains a variety of effects, each organized into independent sections that you can discover by scrolling and interacting with different elements (by clicking or hovering over them). \
-You can visit it at [`https://playground.pifpafdeluxe.fr/`](https://playground.pifpafdeluxe.fr/).
+You can visit it at [`https://playground.alexis-larose.com/`](https://playground.alexis-larose.com/).
 
 ## Examples
 
